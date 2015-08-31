@@ -1,5 +1,4 @@
 # ItemSetBuilder
-<h1>Item Set Builder<h1>
 <br>
 by simsos and daYMANisNotSmurf
 <br>
