@@ -16,8 +16,11 @@ Check out our live demo at http://sparence.ch/
 
 Technologies used
 ----
-* Microsoft Azure ML
-* AngularJS
-* Google Charts
-* Node.JS for downloading data from Riot Games API
+* IDE: Netbeans
+* Boostrap/ Jasny Bootstrap
+* JQuery.js
+* Sortable.js
+* Filesaver.js 
+* Jszip.js
+* Riot Static Data: Champion.json and Item.json
 
