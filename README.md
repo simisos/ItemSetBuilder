@@ -9,7 +9,7 @@ With this tool you can create importable builds online.
 After you import your builds into your league directory, they show up ingame as shop recommendations.
 We created this tool because we think there's a demand for it. <br> 
 
-You can find our documentation here on github.it's a pdf called ItemSetBuilderDocumentation.
+You can find our documentation here on github. it's a pdf called ItemSetBuilderDocumentation.
 
 
 
