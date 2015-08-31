@@ -1,7 +1,7 @@
 # ItemSetBuilder
 
 by simsos and daYMANisNotSmurf
-<br><br>
+<br>
 
 This is our Item Set Builder Project created for the second Riot API challenge.
 With this tool you can create importable builds online.
