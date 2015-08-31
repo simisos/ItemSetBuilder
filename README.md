@@ -1,6 +1,8 @@
 # ItemSetBuilder
 <h1>Item Set Builder<h1>
+<br>
 by simsos and daYMANisNotSmurf
+<br>
 This is our Item Set Builder Project created for the second Riot API challenge.
 We created this tool because we think theres a demand for it.
 
