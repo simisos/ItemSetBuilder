@@ -13,13 +13,13 @@ require_once 'navbar.php'
     <br>
     <h1><strong> Welcome to our help !</strong></h1>
     
-    <h3> On this Website, you can create Builds that you can then import into your gamefolder. Doing this will show them as ingame shop recommendations. You can also</h3>
+    <h3> On this Website, you can create Builds that you can then import into your gamefolder. Doing this will show them as ingame shop recommendations.</h3>
    </div>
     <br><br>
     <img src='./images/index.png' width="500px"align="left">
     <br><br><br><br>
   
-    <h3 >First you'll have to choose a champion to do a build for. You can either press the edit button to create a new build or you can show all the builds created by other users by pressing the show builds button. You can also press the button in the navbar to dowload all our Item Sets</h3>
+    <h3 >First you'll have to choose a champion to do a build for. You can either press the edit button to create a new build or you can show all the builds created by other users by pressing the show builds button.</h3>
 <br><br><br><br><br><br><br><br><br><br><br>
  <img src='./images/builder.png' width="500px"align="left">
 
@@ -40,8 +40,4 @@ require_once 'navbar.php'
    </h3 >
   </div>
  </div>
-       <?php
-require_once 'footer.php'
-    ?>
-    
 </body>
